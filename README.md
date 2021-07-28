@@ -1,4 +1,5 @@
-Developer.gif
+![enter image description here](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif) aaaaaaaa
+aaa
 
 <!--
 **Tiodevs/Tiodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
