@@ -1,5 +1,4 @@
-Conecte-se comigo
-Logotipo do Linkedin	Logotipo do Twitter	logotipo do instagram	Logotipo do Github	Logotipo do HackerRank	Logotipo Stackoverflow	Logótipo Médio	Logotipo do Gmail
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 <!--
 **Tiodevs/Tiodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
