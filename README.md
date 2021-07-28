@@ -1,5 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif) aaaaaaaa
-aaa
+![dino.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif?raw=true)
 
 <!--
 **Tiodevs/Tiodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
