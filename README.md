@@ -12,8 +12,8 @@ Python data science (pandas e numpy)
 
 <div>
   <a href="https://github.com/Tiodevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiodevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&langs_count=7&theme=dark"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![dino.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif?raw=true)
