@@ -10,11 +10,6 @@ Python data science (pandas e numpy)
 [💼: LinkedIn](https://www.linkedin.com/in/felipe-pereira-dos-santos-a1a3b9207/)  
 [📸: Instagram](https://www.instagram.com/somente_ofelipe/) 
 
-<div>
-  <a href="https://github.com/Tiodevs">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ![dino.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif?raw=true)
 
