@@ -10,8 +10,11 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 
 ### Contato
-<a href="https://wa.me/+5541987208843">
+<a href="https://wa.me/+5541987208843" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+</a>
+<a href="https://www.linkedin.com/in/felipe-pereira-dos-santos-a1a3b9207/" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
 
