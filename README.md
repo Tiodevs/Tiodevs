@@ -1,7 +1,7 @@
-## Hi, eu sou o Felipe 🐱‍💻
+## Hola, eu sou o Felipe 🐱‍💻
 <p>Desenvolvedor Front-end com 4 anos de expêriencia, cursando ADS 4 semestre, inglês intermediário</p>
 
-### Languages and Tools:
+### Minhas linguagens:
 - WordPress
 - HTML
 - Javascript
