@@ -1,11 +1,12 @@
 ## Hi, eu sou o Felipe 🐱‍💻
+<p>Desenvolvedor Front-end com 4 anos de expêriencia, cursando ADS 4 semestre, inglês intermediário</p>
 
 ### Languages and Tools:
 - WordPress
-- Python
 - HTML
 - Javascript
 - SCSS
+- Figma/Photoshop
 
 ### Meus contatos:
 [![website](./img/globe-light.svg)](https://portifolio-felipe-beta.vercel.app/#gh-light-mode-only)
@@ -20,9 +21,9 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/somente_ofelipe/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/somente_ofelipe/#gh-dark-mode-only)
 
-
+<!--
 ![Top language used in my repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&hide_title=2&card_width=300&bg_color=0D1117&title_color=E8E8E8&text_color=E8E8E8&border_color=E8E8E8)
-
+-->
 
 
 
