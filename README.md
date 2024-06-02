@@ -2,16 +2,16 @@
 
 
 ### Conhecimentos:
-- HTML
-- Javascript
-- SCSS
+- React
 - Figma/Photoshop
+- SCSS
 - WordPress
 - Gestão de pessoas
 
 ### Estou aprendendo:
-- React
-- React Native
+- Node
+- MongoDB
+- Tailwind
 
 ### Meus contatos:
 [![website](./img/globe-light.svg)](https://portifolio-felipe-beta.vercel.app/#gh-light-mode-only)
