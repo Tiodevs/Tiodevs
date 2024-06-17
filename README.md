@@ -3,15 +3,14 @@
 
 ### Conhecimentos:
 - React
+- TypeScript
 - Figma/Photoshop
-- SCSS
+- Tailwind
 - WordPress
-- Gestão de pessoas
 
 ### Estou aprendendo:
 - Node
 - MongoDB
-- Tailwind
 
 ### Meus contatos:
 [![website](./img/globe-light.svg)](https://portifolio-felipe-beta.vercel.app/#gh-light-mode-only)
