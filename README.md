@@ -7,10 +7,14 @@
 - Figma/Photoshop
 - Tailwind
 - WordPress
+- Express
+- TypeORM
+- PostgreSQL
+- Firabase
 
 ### Estou aprendendo:
-- Node
-- MongoDB
+- React Native
+- SAAS
 
 ### Meus contatos:
 [![website](./img/globe-light.svg)](https://portifolio-felipe-beta.vercel.app/#gh-light-mode-only)
