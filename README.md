@@ -2,29 +2,25 @@
 
 
 ### Conhecimentos:
-- React
+- React/Next.js
 - TypeScript
-- Figma/Photoshop
-- Tailwind
-- WordPress
-- Express
-- TypeORM
-- PostgreSQL
+- Express/Node
+- Prisma/PostgreSQL
 - Firabase
+- Figma/Photoshop
 
 ### Estou aprendendo:
-- React Native
-- SAAS
+- Gateway de Pagamentos
 
 ### Meus contatos:
-[![website](./img/globe-light.svg)](https://portifolio-felipe-beta.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://portifolio-felipe-beta.vercel.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCfkeRU-zKCxu67YwgatcTrA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCfkeRU-zKCxu67YwgatcTrA#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://portifoliodev-felipe.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://portifoliodev-felipe.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/felipe-pereira-dos-santos-a1a3b9207/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/felipe-pereira-dos-santos-a1a3b9207/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCfkeRU-zKCxu67YwgatcTrA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCfkeRU-zKCxu67YwgatcTrA#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/somente_ofelipe/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/somente_ofelipe/#gh-dark-mode-only)
