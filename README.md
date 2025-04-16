@@ -1,6 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=01DFB2&center=false&vCenter=true&random=false&width=1000&lines=Hello%2C+meu+name+é+Felipe;Eu+tenho+21+anos;Eu+sou+Desenvolvedor+Web;Sou+do+Brasil;Bem-vindo:D%3A)](https://git.io/typing-svg)
-
-Olá! Eu sou o Felipe, um Desenvolvedor Web apaixonado por tecnologia e inovação. 🚀
+![Background](./Background.png)
 
 ### 💻 Tecnologias que uso:
 - **Frontend:** React, Next.js, TypeScript
@@ -13,9 +11,9 @@ Olá! Eu sou o Felipe, um Desenvolvedor Web apaixonado por tecnologia e inovaç�
 
 ### 🛠️ Ferramentas e Tecnologias:
 - Git/GitHub
-- Docker
 - Vercel
-- Jest
+- Insominia
+- Neon ou Railway
 
 ### 🌱 Objetivos:
 - Continuar evoluindo em **React/Next.js**
