@@ -30,14 +30,6 @@
 
 ---
 
----
-
-### 🧑‍💻 Projetos Destacados:
-
-
-
-### 📍 Localização:
-- Atualmente morando no **Brasil** 🇧🇷
 
 
 
