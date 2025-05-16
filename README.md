@@ -4,22 +4,22 @@
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Express, Node.js, Prisma
 - **Banco de Dados:** PostgreSQL, Firebase
-- **Design:** Figma, Photoshop
-
-### 📚 Atualmente aprendendo:
-- Gateway de Pagamentos
+- **Design:** Figma, canva e V0
+- **IA:** Consumo de api do chatGPT para criação de agentes e fining tune
+- **Gateway de Pagamentos:**  Stripe, guru 
 
 ### 🛠️ Ferramentas e Tecnologias:
 - Git/GitHub
 - Vercel
 - Insominia
 - Neon ou Railway
-
-### 🌱 Objetivos:
-- Continuar evoluindo em **React/Next.js**
-- Expandir meu conhecimento em **Arquitetura de Software**
-- Contribuir para projetos Open Source
-
+  
+### 📚 Atualmente aprendendo:
+- Testes: Jest e outros
+- Clean Code e configurar ESLint + Prettier
+- Docker
+- AWS (EC2, RDS e S3)
+  
 ---
 
 ### 📈 GitHub Stats:
@@ -34,9 +34,6 @@
 
 ### 🧑‍💻 Projetos Destacados:
 
-- **[Nome do Projeto 1](link_para_o_projeto):** Descrição breve do projeto.
-- **[Nome do Projeto 2](link_para_o_projeto):** Descrição breve do projeto.
-- **[Nome do Projeto 3](link_para_o_projeto):** Descrição breve do projeto.
 
 
 ### 📍 Localização:
