@@ -6,7 +6,9 @@
 - **Banco de Dados:** PostgreSQL, Firebase
 - **Design:** Figma, canva e V0
 - **IA:** Consumo de api do chatGPT para criação de agentes e fining tune
-- **Gateway de Pagamentos:**  Stripe, guru 
+- **Gateway de Pagamentos:**  Stripe, guru
+- **Testes:** Jest e outros
+- **Docker**
 
 ### 🛠️ Ferramentas e Tecnologias:
 - Git/GitHub
@@ -15,9 +17,7 @@
 - Neon ou Railway
   
 ### 📚 Atualmente aprendendo:
-- Testes: Jest e outros
 - Clean Code e configurar ESLint + Prettier
-- Docker
 - AWS (EC2, RDS e S3)
   
 ---
