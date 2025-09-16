@@ -1,4 +1,4 @@
-![Background](./Background.png)
+![Background](./foto.png)
 
 ### 💻 Tecnologias que uso:
 - **Frontend:** React, Next.js, TypeScript
