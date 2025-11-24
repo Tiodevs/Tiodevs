@@ -1,24 +1,17 @@
-![Background](./Capalinkedin2.png)
-
 ### 💻 Tecnologias que uso:
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Express, Node.js, Prisma
-- **Banco de Dados:** PostgreSQL, Firebase
-- **Design:** Figma, canva e V0
-- **IA:** Consumo de api do chatGPT para criação de agentes e fining tune
-- **Gateway de Pagamentos:**  Stripe, guru
-- **Testes:** Jest e outros
-- **Docker**
-
-### 🛠️ Ferramentas e Tecnologias:
-- Git/GitHub
-- Vercel
-- Insominia
-- Neon ou Railway
+- **Frontend:** React.js, Next.js, Axios, Jest, Javascript, TypeScript, Vercel, HTML, CSS, React Native, Expo, GSAP, Chadcn, Tailwind, Figma.
+- **Backend:** NodeJS, Nest.js, Express, Prisma, Mongoose, JWT, Swagger.
+- **Banco de Dados:** PostgreSQL, MongoDB.
+- **Testes:** Jest
+- **Gateway de Pagamentos:**  Stripe, Abacate pay
+- **DevOps:**  AWS S3, Lambda, EC2, RDS, SQS, Git actions
+- **Outros:** Git/GitHub, vivência com metodologias ágeis, Jira, Asana, POO, Power BI, Make, N8N
   
 ### 📚 Atualmente aprendendo:
-- Clean Code e configurar ESLint + Prettier
-- AWS (EC2, RDS e S3)
+- Clean Code
+- TDD
+- SOLID
+- Java Spring Boot
   
 ---
 
