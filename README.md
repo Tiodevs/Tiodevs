@@ -8,10 +8,9 @@
 - **Outros:** Git/GitHub, vivência com metodologias ágeis, Jira, Asana, POO, Power BI, Make, N8N
   
 ### 📚 Atualmente aprendendo:
-- Clean Code
+- Java Spring Boot
 - TDD
 - SOLID
-- Java Spring Boot
   
 ---
 
