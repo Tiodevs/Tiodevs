@@ -1,4 +1,4 @@
-![Background](./Capalinkedin.png)
+![Background](./Capalinkedin2.png)
 
 ### 💻 Tecnologias que uso:
 - **Frontend:** React, Next.js, TypeScript
