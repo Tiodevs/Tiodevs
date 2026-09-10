@@ -108,7 +108,7 @@ flowchart LR
 
 Trajetória versionada. Cada release com o que realmente mudou no negócio.
 
-### `2026.x` — Grupo Boticário
+### 2026.x — Grupo Boticário
 **Engenheiro de Software Pleno** · jan 2026 → agora
 
 `feat(industria)` ponto focal da modernização do suporte fabril: RAG sobre documentação técnica, dashboards de BI para a gestão e redesenho de processos em BPMN, com integrações entre sistemas.
@@ -117,7 +117,7 @@ Trajetória versionada. Cada release com o que realmente mudou no negócio.
 
 `perf` dezenas de planilhas de horas, folgas e matriz de habilidades saíram de cena. **+20%** de produtividade dos coordenadores, **−10%** no tempo de alocação. Governança de um custo operacional de **R$ 63 milhões/ano**.
 
-### `2025.x` — ASSUMTEK
+### 2025.x — ASSUMTEK
 **Full Stack Pleno & Tech Lead** · jan 2025 → jan 2026
 
 `feat(rh)` plataforma interna do zero (Node, Postgres, Next, Vercel, Railway): jornada PJ, folha, travas de horas, aprovações e cálculo dinâmico de remuneração. **−70%** no tempo do RH no fechamento da folha.
@@ -126,7 +126,7 @@ Trajetória versionada. Cada release com o que realmente mudou no negócio.
 
 `feat(martech)` jornadas inteiras ligadas — Meta Ads, CRMs e base interna — com Node.js, n8n e Make. Pipelines Node/Python alimentando Power BI para Produto, Marketing, TI, RH e clientes B2B.
 
-### `2021.0` — Sentier
+### 2021.0 — Sentier
 **Fundador & Full Stack · soluções B2B & SaaS** · jan 2021 → jan 2025
 
 `feat(*)` **+40 produtos** entregues ponta a ponta: sistemas sob medida, LPs, automações e BI. Do Figma ao ar.
@@ -176,8 +176,8 @@ Software também é gente.
 ## Sinais de vida
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiodevs&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=0D1117&title_color=01DFB2&icon_color=01DFB2&text_color=E8E8E8&border_color=30363D" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&hide_title=true&bg_color=0D1117&title_color=01DFB2&text_color=E8E8E8&border_color=30363D" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Tiodevs&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=0D1117&title_color=01DFB2&icon_color=01DFB2&text_color=E8E8E8&border_color=30363D" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tiodevs&layout=compact&hide_title=true&bg_color=0D1117&title_color=01DFB2&text_color=E8E8E8&border_color=30363D" alt="Linguagens mais usadas" />
 </p>
 
 ---
