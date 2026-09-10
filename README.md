@@ -45,37 +45,6 @@ flowchart LR
 
 ---
 
-## Changelog
-
-Trajetória versionada. Cada release com o que realmente mudou no negócio.
-
-### 2026.x — Grupo Boticário
-**Engenheiro de Software Pleno** · jan 2026 → agora
-
-`feat(industria)` ponto focal da modernização do suporte fabril: RAG sobre documentação técnica, dashboards de BI para a gestão e redesenho de processos em BPMN, com integrações entre sistemas.
-
-`feat(pwa)` decisões técnicas do **App Super** — gestão de **+5.000 colaboradores** em React, Node.js, MongoDB/DocumentDB e SSO. Deploy e observabilidade com o time de DevOps (AWS, EKS, S3, ArgoCD, New Relic).
-
-`perf` dezenas de planilhas de horas, folgas e matriz de habilidades saíram de cena. **+20%** de produtividade dos coordenadores, **−10%** no tempo de alocação. Governança de um custo operacional de **R$ 63 milhões/ano**.
-
-### 2025.x — ASSUMTEK
-**Full Stack Pleno & Tech Lead** · jan 2025 → jan 2026
-
-`feat(rh)` plataforma interna do zero (Node, Postgres, Next, Vercel, Railway): jornada PJ, folha, travas de horas, aprovações e cálculo dinâmico de remuneração. **−70%** no tempo do RH no fechamento da folha.
-
-`feat(lead)` arquitetura, backlog, code review e 1:1. O time evolui; o produto não fica órfão.
-
-`feat(martech)` jornadas inteiras ligadas — Meta Ads, CRMs e base interna — com Node.js, n8n e Make. Pipelines Node/Python alimentando Power BI para Produto, Marketing, TI, RH e clientes B2B.
-
-### 2021.0 — Sentier
-**Fundador & Full Stack · soluções B2B & SaaS** · jan 2021 → jan 2025
-
-`feat(*)` **+40 produtos** entregues ponta a ponta: sistemas sob medida, LPs, automações e BI. Do Figma ao ar.
-
-`feat(saas)` gestão multi-tenant para barbearias: agenda, folha, assinaturas e lembretes. Next.js, Node.js, Prisma, AWS S3, Resend e Vercel. **+7.000 usuários**. **17–20%** menos tempo na operação dos clientes.
-
----
-
 ## Projetos em evidência
 
 O que dá para abrir no GitHub — o restante mora no [portfólio](https://mefelipe.com.br).
@@ -88,19 +57,6 @@ O que dá para abrir no GitHub — o restante mora no [portfólio](https://mefel
 | **[newsletter-api-aws](https://github.com/Tiodevs/newsletter-api-aws)** | Newsletter serverless: SQS, workers e logs no S3. |
 
 No portfólio também está o **IA CHAT** (2025): especificações funcionais para consultores SAP que saíram de horas para minutos — backend, frontend e DevOps no mesmo PR.
-
----
-
-## Formação
-
-| Quando | O quê |
-| :--- | :--- |
-| 2021 – 2025 | **ADS** · FAEL |
-| 2025 | **Programa Desenvolve** · Grupo Boticário — Full Stack, Node, React, Next, IA |
-| 2025 | **Business Fundamentals** · Harvard Business Education |
-| 2025 | **Análise de Dados & BI** · Google |
-| 2021 | **CS50x** · Harvard University |
-| 2021 | **AWS Academy Cloud Foundations** |
 
 ---
 
